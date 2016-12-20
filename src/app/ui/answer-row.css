@@ -1,0 +1,24 @@
+.show {
+    opacity: 1 !important;
+    transition: .4s !important;
+}
+
+.hide {
+    opacity: 0;
+    transition: 1s ease-in-out all;
+}
+
+.correct {
+    color: darkgreen;
+}
+
+.incorrect {
+    color: crimson;
+}
+
+.answer {
+    text-align: left;
+    height: auto;
+}
+
+å

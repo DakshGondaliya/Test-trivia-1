@@ -1,0 +1,13 @@
+@import url(https://fonts.googleapis.com/css?family=Roboto:400,100,300,500,700);
+
+body, html, main, .main, .app, app {
+  min-height: 100%;
+  height: 100%;
+  width: 100%;
+  background-color: #efefef;
+}
+
+.center{
+  margin-left: auto;
+  margin-right: auto;
+}
